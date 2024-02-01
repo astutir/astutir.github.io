@@ -1,18 +1,24 @@
 ---
-title: Customize the Favicon
 author: cotes
+categories:
+  - Blogging
+  - Tutorial
 date: 2019-08-11 00:34:00 +0800
-categories: [Blogging, Tutorial]
-tags: [favicon]
+runme:
+  id: 01HNJ9E3RJ98S3Z2VJ6N3EAMYR
+  version: v2.2
+tags:
+  - favicon
+title: Customize the Favicon
 ---
 
 The [favicons](https://www.favicon-generator.org/about/) of [**Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/) are placed in the directory `assets/img/favicons/`{: .filepath}. You may want to replace them with your own. The following sections will guide you to create and replace the default favicons.
 
 ## Generate the favicon
 
-Prepare a square image (PNG, JPG, or SVG) with a size of 512x512 or more, and then go to the online tool [**Real Favicon Generator**](https://realfavicongenerator.net/) and click the button <kbd>Select your Favicon image</kbd> to upload your image file.
+Prepare a square image (PNG, JPG, or SVG) with a size of 512x512 or more, and then go to the online tool [**Real Favicon Generator**](https://realfavicongenerator.net/) and click the button Select your Favicon image to upload your image file.
 
-In the next step, the webpage will show all usage scenarios. You can keep the default options, scroll to the bottom of the page, and click the button <kbd>Generate your Favicons and HTML code</kbd> to generate the favicon.
+In the next step, the webpage will show all usage scenarios. You can keep the default options, scroll to the bottom of the page, and click the button Generate your Favicons and HTML code to generate the favicon.
 
 ## Download & Replace
 
@@ -30,7 +36,8 @@ The following table will help you understand the changes to the favicon files:
 | `*.PNG`             | ✓                                 | ✗           |
 | `*.ICO`             | ✓                                 | ✗           |
 
->  ✓ means keep, ✗ means delete.
-{: .prompt-info }
+> ✓ means keep, ✗ means delete.
+> {: .prompt-info }
 
 The next time you build the site, the favicon will be replaced with a customized edition.
+dkajdakdkjadadbakjbdakdbadbkadk
